@@ -1,0 +1,65 @@
+html {
+  background-image: url(Hospital-Login/images/hospital-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  padding: 50px 50px;
+  background-color: rgb(255, 255, 255, 0.7);
+}
+
+.grey {
+  color: gray;
+}
+
+img {
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 1px 1p;
+  size: 200px;
+  margin: 9px;
+}
+
+img:hover {
+  cursor: pointer;
+  border: 2px solid red;
+}
+
+input {
+  border-radius: 5px;
+  padding: 10px 10px;
+}
+
+input:hover {
+  color: #2b6eb1;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+div {
+  background-color: lightblue;
+  border: 3px solid darkblue;
+  border-radius: 30px;
+  padding: 17px 17px;
+}
+
+a {
+  color: darkblue;
+}
+
+.info {
+  letter-spacing: 2px;
+}
